@@ -1,0 +1,14 @@
+
+header {
+    background: #c28f8f;
+    padding: 30px;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+}
